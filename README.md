@@ -11,8 +11,8 @@ iniciando os aprendizados da linguagem JS, de inicio pode parecer uma bagunça, 
 
 ## 📒 Cursos em andamento
 
-* BootCamp
+* BootCamp:
 Back end com java.
 
-* Code learn
+* Code learn:
 Front end.
